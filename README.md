@@ -8,3 +8,6 @@ https://nbviewer.org/github/nas33mshah/Data-Analyst-Projects/blob/main/Cleaning%
 
 SuperStore_Analysis:
 https://nbviewer.org/github/nas33mshah/Data-Analyst-Projects/blob/main/SuperStore_Analysis.ipynb
+
+Web Scraping - Best Video Games:
+https://nbviewer.org/github/nas33mshah/Data-Analyst-Projects/blob/main/Web%20Scrapping%20-%20Best%20Video%20Games%20.ipynb
